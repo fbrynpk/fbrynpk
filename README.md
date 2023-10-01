@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with ...
 
 -->
+[![An image of @fbrynpk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fbrynpk)](https://holopin.io/@fbrynpk)
 - 🌱 I’m currently learning Machine Learning and Deep Learning for Vision and Language Processing
 - 👯 I’m looking to collaborate on building exciting projects revolving around Computer Vision and NLP
 - ⚡ Fun fact: I enjoy playing and listening to music in my free time
