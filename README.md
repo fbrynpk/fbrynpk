@@ -6,9 +6,10 @@
 
 -->
 [![An image of @fbrynpk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fbrynpk)](https://holopin.io/@fbrynpk)
-- 🌱 I’m currently learning Machine Learning and Deep Learning for Vision and Language Processing
-- 👯 I’m looking to collaborate on building exciting projects revolving around Computer Vision and NLP
-- ⚡ Fun fact: I enjoy playing and listening to music in my free time
+-  🔍 I’m interested in researching Machine Learning and Deep Learning for Vision and Language Processing
+-  👯 I’m looking to collaborate on building exciting projects revolving around Computer Vision and NLP
+-  ⚡ Fun fact: I enjoy playing and listening to music in my free time
 -  🔭 I’m currently working on replicating and researching [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) 
 -  📫 How to reach me: febryanputra12@gmail.com
 -  💬 Currently reading about: [Quiet](https://susancain.net/book/quiet/) by Susan Cain
+-  📚 I’m currently studying a course on [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/week/1) and [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp/home/week/1) by [DeepLearning.AI](https://www.deeplearning.ai/)
