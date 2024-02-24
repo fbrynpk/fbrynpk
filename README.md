@@ -11,6 +11,6 @@
 - ⚡ Fun fact: I enjoy playing and listening to music in my free time
 -  📫 How to reach me: febryanputra12@gmail.com
 -  💬 Currently reading about: [Quiet](https://susancain.net/book/quiet/) by Susan Cain
--  📚 I’m currently studying a course on [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/week/1) and [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp/home/week/1) by [DeepLearning.AI](https://www.deeplearning.ai/)
+-  📚 I’m currently studying a course on [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/week/1) and [Advanced Deep Learning Methods for Healthcare](https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare/home/week/1) by [University of Illinois at Urbana-Champaign](https://illinois.edu/)
 
 <!--  🔭 I’m currently working on replicating and researching [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) -->
