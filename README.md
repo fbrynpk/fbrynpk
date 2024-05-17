@@ -10,7 +10,7 @@
 -  👯 I’m looking to collaborate on building exciting projects revolving around Computer Vision and NLP
 - ⚡ Fun fact: I enjoy playing and listening to music in my free time
 -  📫 How to reach me: febryanputra12@gmail.com
--  💬 Currently reading about: [Quiet](https://susancain.net/book/quiet/) by Susan Cain
+-  💬 Currently reading about: [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
 -  📚 I’m currently studying a course on [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/week/1) and [Advanced Deep Learning Methods for Healthcare](https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare/home/week/1) by [University of Illinois at Urbana-Champaign](https://illinois.edu/)
 
 <!--  🔭 I’m currently working on replicating and researching [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/pdf/2307.08621.pdf) -->
